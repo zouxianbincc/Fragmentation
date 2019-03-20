@@ -9,5 +9,5 @@ https://github.com/YoKeyword/Fragmentation  Fragmentation 的代码，只是为�
 	    }
 ##### Add the dependency
         dependencies {
-	        implementation 'com.github.zouxianbincc:Fragmentation:1.0.1'
+	        implementation 'com.github.zouxianbincc:Fragmentation:1.0.2'
        	}
